@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ganesh Kalidas
+# 👋 Hi, I'm Ganesh Londhe
 
 💡 Passionate about building scalable web & mobile applications  
 ⚡ Strong foundation in **Python, Web Development, and Cloud Tools**  

@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Ganesh Kalidas
 
-<!--
-**gkalidas/gkalidas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Passionate about building scalable web & mobile applications  
+⚡ Strong foundation in **Python, Web Development, and Cloud Tools**  
+🌱 Currently exploring **Data Structures & Algorithms** and **OOPs**  
+🎯 Love to solve problems and build clean, efficient solutions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🐍 Programming Languages  
+- Python  
+- C / C++ / Java  
+- JavaScript  
+
+---
+
+## 🌐 Frameworks & Libraries  
+- Django  
+- FastAPI  
+- React.js  
+- React Native  
+- Angular  
+
+---
+
+## 🗄️ Databases  
+- PostgreSQL  
+
+---
+
+## 🛠️ Tools & Platforms  
+- Docker  
+- Linux / Ubuntu  
+- Git & GitHub  
+- AWS  
+
+---
+
+## 📚 Currently Learning  
+- Data Structures & Algorithms  
+- Object-Oriented Programming  
